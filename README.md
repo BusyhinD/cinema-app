@@ -3,7 +3,7 @@
 
 The Cinema Web App is a Java web application that allows users to explore and select interesting films, find available sessions for the films, add them to a shopping cart, and conveniently order tickets.
 
-+ The project incorporates various frameworks, including Hibernate and Spring (Core, MVC, and Security), to ensure efficient data management, dependency injection, and secure authentication. It follows SOLID principles and best practices, resulting in a robust and maintainable codebase. 
++ The project incorporates various frameworks, including **Hibernate** and **Spring** (Core, MVC, and Security), to ensure efficient data management, dependency injection, and secure authentication. It follows **SOLID** principles and best practices, resulting in a robust and maintainable codebase. 
 + The application is developed using JDK 17 and utilizes Tomcat 9 as the web server and MySQL as the backend database management system.
 
 ## 🔎 Features
