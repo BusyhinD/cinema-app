@@ -22,12 +22,13 @@ The Cinema Web App offers the following features:
 #### Order Placement
 * Finalize selections from the shopping cart.
 * Securely place ticket orders.
-#### User Roles and Authentication
-* The application implements user roles and authentication to differentiate between regular users and administrators.
+#### User Roles, Authentication, and Authorization
+* The application implements user roles and authentication to differentiate between regular users and administrators. Registration (by default with the role user) or login as a user.
 
   + User Role: Regular users can explore films, view available sessions, add items to the shopping cart, and place orders.
 
   + Admin Role: Administrators have additional privileges. They can add movies with descriptions, manage cinema halls, and create movie sessions with existing movies and cinema halls.
+* Register (by default with the role user) or login as user
 
 #### URL Filters
 * The app incorporates URL filters to ensure proper access control and security. Filters restrict access to specific URLs based on the user's role, allowing administrators to access administrative features while preventing unauthorized access.
